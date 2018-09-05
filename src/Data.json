@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Westworld",
+    "poster": "./images/westworld.jpg",
+    "plot": "Follows the personal and professional lives of six 20 to 30-something-year-old friends living in Manhattan.",
+    "imdbRating": "4"
+  },
+  {
+    "title": "Star Wars",
+    "plot": "Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.",
+    "poster": "./images/star_wars.jpg",
+    "imdbRating": "4"
+  },
+  {
+    "title": "L'insulte",
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "./images/insulte.jpg",
+    "imdbRating": "2"
+  },
+  {
+    "title": "Friends",
+    "poster": "./images/friends.jpg",
+    "plot": "Follows the personal and professional lives of six 20 to 30-something-year-old friends living in Manhattan.",
+    "imdbRating": "3"
+  },
+  {
+    "title": "Game of Thrones",
+    "poster": "./images/game_of_thrones.jpg",
+    "plot": "Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.",
+    "imdbRating": "4"
+  },
+  {
+    "title": "Elysium",
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "./images/Elysium.jpg",
+    "imdbRating": "2"
+  },
+  {
+    "title": "Inception",
+    "poster": "./images/inception.jpg",
+    "plot": "Follows the personal and professional lives of six 20 to 30-something-year-old friends living in Manhattan.",
+    "imdbRating": "5"
+  },
+  {
+    "title": "Cinquième élément",
+    "plot": "Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.",
+    "poster": "./images/fifth_element.jpg",
+    "imdbRating": "5"
+  },
+  {
+    "title": "Aviator",
+    "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "poster": "./images/aviator.jpg",
+    "imdbRating": "4.2"
+  }
+]
